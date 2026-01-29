@@ -1,0 +1,40 @@
+match_id,inning,batting_team,bowling_team,batsman,bowler,batsman_runs,total_runs,ball
+1,1,MI,CSK,Rohit Sharma,Bravo,4,4,1
+1,1,MI,CSK,Rohit Sharma,Bravo,2,2,2
+1,1,MI,CSK,Hardik Pandya,Bravo,6,6,3
+1,2,CSK,MI,MS Dhoni,Bumrah,4,4,1
+1,2,CSK,MI,MS Dhoni,Bumrah,1,1,2
+2,1,CSK,RCB,Suresh Raina,Chahal,4,4,1
+2,1,CSK,RCB,Suresh Raina,Chahal,6,6,2
+3,1,DC,KKR,Shikhar Dhawan,Narine,4,4,1
+3,1,DC,KKR,Shikhar Dhawan,Narine,2,2,2
+4,1,KKR,RR,Andre Russell,Chahal,6,6,1
+5,1,MI,SRH,Rohit Sharma,Bhuvneshwar,6,6,1
+5,1,MI,SRH,Rohit Sharma,Bhuvneshwar,4,4,2
+6,1,RCB,CSK,Virat Kohli,Bravo,4,4,1
+6,1,RCB,CSK,Virat Kohli,Bravo,6,6,2
+7,1,RR,KXIP,Sanju Samson,Shami,4,4,1
+7,1,RR,KXIP,Sanju Samson,Shami,6,6,2
+8,1,CSK,MI,MS Dhoni,Bumrah,4,4,1
+8,1,CSK,MI,MS Dhoni,Bumrah,6,6,2
+9,1,MI,RCB,Rohit Sharma,Chahal,4,4,1
+9,1,MI,RCB,Rohit Sharma,Chahal,6,6,2
+10,1,DC,SRH,David Warner,Bhuvneshwar,4,4,1
+10,1,DC,SRH,David Warner,Bhuvneshwar,6,6,2
+11,1,GT,MI,Shubman Gill,Bumrah,4,4,1
+12,1,RR,DC,Jos Buttler,Ashwin,4,4,1
+12,1,RR,DC,Jos Buttler,Ashwin,6,6,2
+13,1,KKR,CSK,Andre Russell,Bravo,6,6,1
+14,1,RCB,LSG,Faf du Plessis,Holder,4,4,1
+15,1,GT,RR,Hardik Pandya,Chahal,6,6,1
+16,1,MI,CSK,Rohit Sharma,Jadeja,4,4,1
+17,1,CSK,RR,Ruturaj Gaikwad,Boult,4,4,1
+18,1,DC,KKR,Shikhar Dhawan,Narine,6,6,1
+19,1,SRH,RCB,Abhishek Sharma,Harshal Patel,4,4,1
+20,1,GT,MI,Shubman Gill,Bumrah,6,6,1
+21,1,KKR,LSG,Nitish Rana,Bishnoi,4,4,1
+22,1,RR,CSK,Jos Buttler,Chahar,6,6,1
+23,1,RCB,GT,Virat Kohli,Shami,4,4,1
+24,1,LSG,SRH,KL Rahul,Bhuvneshwar,6,6,1
+25,1,MI,RR,Suryakumar Yadav,Chahal,4,4,1
+
