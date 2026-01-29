@@ -27,14 +27,4 @@ match_id,inning,batting_team,bowling_team,batsman,bowler,batsman_runs,total_runs
 13,1,KKR,CSK,Andre Russell,Bravo,6,6,1
 14,1,RCB,LSG,Faf du Plessis,Holder,4,4,1
 15,1,GT,RR,Hardik Pandya,Chahal,6,6,1
-16,1,MI,CSK,Rohit Sharma,Jadeja,4,4,1
-17,1,CSK,RR,Ruturaj Gaikwad,Boult,4,4,1
-18,1,DC,KKR,Shikhar Dhawan,Narine,6,6,1
-19,1,SRH,RCB,Abhishek Sharma,Harshal Patel,4,4,1
-20,1,GT,MI,Shubman Gill,Bumrah,6,6,1
-21,1,KKR,LSG,Nitish Rana,Bishnoi,4,4,1
-22,1,RR,CSK,Jos Buttler,Chahar,6,6,1
-23,1,RCB,GT,Virat Kohli,Shami,4,4,1
-24,1,LSG,SRH,KL Rahul,Bhuvneshwar,6,6,1
-25,1,MI,RR,Suryakumar Yadav,Chahal,4,4,1
 
