@@ -1,33 +1,52 @@
-id,season,city,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,venue,match_stage
-1,2019,Mumbai,MI,CSK,MI,bat,MI,10,0,Wankhede Stadium,League
-2,2019,Chennai,CSK,RCB,RCB,field,CSK,0,5,Chepauk,League
-3,2019,Delhi,DC,KKR,DC,bat,DC,20,0,Feroz Shah Kotla,League
-4,2019,Kolkata,KKR,RR,RR,field,KKR,0,6,Eden Gardens,League
-5,2019,Hyderabad,SRH,CSK,CSK,field,CSK,0,6,Rajiv Gandhi Stadium,Qualifier
-6,2019,Chennai,CSK,MI,CSK,bat,MI,0,1,Chepauk,Final
-
-7,2020,Dubai,MI,SRH,MI,field,MI,0,6,Dubai Stadium,League
-8,2020,Abu Dhabi,RCB,CSK,CSK,field,RCB,15,0,Abu Dhabi Stadium,League
-9,2020,Sharjah,RR,KXIP,RR,bat,KXIP,0,5,Sharjah Stadium,League
-10,2020,Dubai,DC,MI,MI,field,MI,0,5,Dubai Stadium,Qualifier
-11,2020,Dubai,MI,DC,MI,field,MI,0,5,Dubai Stadium,Final
-
-12,2021,Chennai,CSK,MI,CSK,bat,CSK,12,0,Chepauk,League
-13,2021,Mumbai,MI,RCB,MI,field,RCB,0,4,Wankhede Stadium,League
-14,2021,Delhi,DC,SRH,SRH,field,DC,18,0,Arun Jaitley Stadium,League
-15,2021,Dubai,DC,CSK,CSK,field,CSK,0,6,Dubai Stadium,Qualifier
-16,2021,Dubai,CSK,KKR,CSK,bat,CSK,27,0,Dubai Stadium,Final
-
-17,2022,Mumbai,MI,GT,GT,field,GT,0,5,Wankhede Stadium,League
-18,2022,Delhi,DC,RR,RR,bat,RR,18,0,Arun Jaitley Stadium,League
-19,2022,Kolkata,KKR,CSK,KKR,field,KKR,0,3,Eden Gardens,League
-20,2022,Pune,LSG,RCB,RCB,field,RCB,0,7,Pune Stadium,Qualifier
-21,2022,Ahmedabad,GT,RR,GT,bat,GT,11,0,Narendra Modi Stadium,Final
-
-22,2023,Mumbai,MI,CSK,MI,bat,CSK,0,4,Wankhede Stadium,League
-23,2023,Chennai,CSK,RR,RR,field,RR,0,6,Chepauk,League
-24,2023,Delhi,DC,KKR,DC,bat,KKR,0,5,Arun Jaitley Stadium,League
-25,2023,Hyderabad,SRH,RCB,SRH,bat,SRH,22,0,Rajiv Gandhi Stadium,League
-26,2023,Ahmedabad,GT,MI,MI,field,MI,0,6,Narendra Modi Stadium,Qualifier
-27,2023,Ahmedabad,GT,CSK,CSK,field,CSK,0,5,Narendra Modi Stadium,Final
+id,season,city,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,venue
+1,2018,Mumbai,MI,CSK,MI,bat,CSK,0,5,Wankhede Stadium
+2,2018,Chennai,CSK,RCB,CSK,field,CSK,12,0,Chepauk
+3,2018,Delhi,DD,KKR,KKR,field,KKR,0,6,Feroz Shah Kotla
+4,2018,Kolkata,KKR,RR,RR,bat,RR,8,0,Eden Gardens
+5,2019,Mumbai,MI,CSK,MI,bat,MI,10,0,Wankhede Stadium
+6,2019,Chennai,CSK,RCB,RCB,field,CSK,0,5,Chepauk
+7,2019,Delhi,DC,KKR,DC,bat,DC,20,0,Feroz Shah Kotla
+8,2019,Kolkata,KKR,RR,RR,field,KKR,0,6,Eden Gardens
+9,2020,Dubai,MI,SRH,MI,field,MI,0,6,Dubai Stadium
+10,2020,Abu Dhabi,RCB,CSK,CSK,field,RCB,15,0,Abu Dhabi Stadium
+11,2020,Sharjah,RR,KXIP,RR,bat,KXIP,0,5,Sharjah Stadium
+12,2021,Chennai,CSK,MI,CSK,bat,CSK,12,0,Chepauk
+13,2021,Mumbai,MI,RCB,MI,field,RCB,0,4,Wankhede Stadium
+14,2021,Delhi,DC,SRH,SRH,field,DC,18,0,Arun Jaitley Stadium
+15,2022,Mumbai,MI,GT,GT,field,GT,0,5,Wankhede Stadium
+16,2022,Delhi,DC,RR,RR,bat,RR,18,0,Arun Jaitley Stadium
+17,2022,Kolkata,KKR,CSK,KKR,field,KKR,0,3,Eden Gardens
+18,2022,Pune,LSG,RCB,RCB,field,RCB,0,7,Pune Stadium
+19,2022,Ahmedabad,GT,RR,GT,bat,GT,11,0,Narendra Modi Stadium
+20,2023,Mumbai,MI,CSK,MI,bat,CSK,0,4,Wankhede Stadium
+21,2023,Chennai,CSK,RR,RR,field,RR,0,6,Chepauk
+22,2023,Delhi,DC,KKR,DC,bat,KKR,0,5,Arun Jaitley Stadium
+23,2023,Hyderabad,SRH,RCB,SRH,bat,SRH,22,0,Rajiv Gandhi Stadium
+24,2023,Ahmedabad,GT,MI,MI,field,MI,0,6,Narendra Modi Stadium
+25,2023,Kolkata,KKR,LSG,KKR,field,KKR,0,4,Eden Gardens
+26,2023,Jaipur,RR,CSK,CSK,field,CSK,0,5,Sawai Mansingh Stadium
+27,2023,Bangalore,RCB,GT,RCB,bat,GT,0,6,Chinnaswamy Stadium
+28,2023,Lucknow,LSG,SRH,LSG,bat,LSG,13,0,BRSABV Stadium
+29,2023,Mumbai,MI,RR,RR,field,RR,0,5,Wankhede Stadium
+30,2023,Delhi,DC,GT,GT,field,GT,0,4,Arun Jaitley Stadium
+31,2022,Bangalore,RCB,MI,MI,field,MI,0,6,Chinnaswamy Stadium
+32,2021,Chennai,CSK,DC,CSK,bat,CSK,7,0,Chepauk
+33,2020,Dubai,SRH,KKR,KKR,field,KKR,0,7,Dubai Stadium
+34,2019,Mumbai,MI,RR,MI,field,MI,0,6,Wankhede Stadium
+35,2018,Jaipur,RR,CSK,CSK,field,CSK,0,6,Sawai Mansingh Stadium
+36,2018,Bangalore,RCB,KKR,KKR,field,KKR,0,5,Chinnaswamy Stadium
+37,2019,Hyderabad,SRH,DC,SRH,bat,SRH,20,0,Rajiv Gandhi Stadium
+38,2020,Sharjah,RCB,MI,MI,field,MI,0,6,Sharjah Stadium
+39,2021,Mumbai,MI,RR,MI,bat,RR,0,4,Wankhede Stadium
+40,2022,Delhi,DC,LSG,LSG,field,LSG,0,6,Arun Jaitley Stadium
+41,2023,Mumbai,MI,LSG,MI,bat,LSG,0,5,Wankhede Stadium
+42,2023,Chennai,CSK,GT,GT,field,GT,0,4,Chepauk
+43,2022,Ahmedabad,GT,MI,GT,bat,GT,14,0,Narendra Modi Stadium
+44,2021,Delhi,DC,MI,MI,field,MI,0,6,Arun Jaitley Stadium
+45,2020,Abu Dhabi,SRH,RR,SRH,bat,SRH,15,0,Abu Dhabi Stadium
+46,2019,Delhi,DC,MI,MI,field,MI,0,6,Feroz Shah Kotla
+47,2018,Mumbai,MI,RR,MI,bat,MI,10,0,Wankhede Stadium
+48,2018,Chennai,CSK,SRH,CSK,field,CSK,8,0,Chepauk
+49,2022,Pune,LSG,RR,RR,field,RR,0,5,Pune Stadium
+50,2023,Bangalore,RCB,CSK,CSK,field,CSK,0,4,Chinnaswamy Stadium
 
